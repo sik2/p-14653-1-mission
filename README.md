@@ -45,3 +45,5 @@ export LC_ALL=C.UTF-8
 ### ➲ 0013
 <img width="2446" height="1738" alt="image" src="https://github.com/user-attachments/assets/1948508a-d5ff-4f2a-a0fa-db915c7a8b96" />
 
+### ➲ 0014
+<img width="2446" height="1738" alt="image" src="https://github.com/user-attachments/assets/5ad417f5-a088-4942-93d8-e10498c01faa" />
